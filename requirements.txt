@@ -1,0 +1,6 @@
+pandas
+opencv-python
+seaborn
+scikit-learn
+pillow
+numpy
